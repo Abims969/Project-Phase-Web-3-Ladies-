@@ -8,6 +8,19 @@ body {
   height: 30px;
   flex-shrink: 0;
 }
+.frame-div,
+.frame-div3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.frame-div3 {
+  align-items: flex-start;
+  gap: var(--gap-3xl);
+  font-size: var(--smaller-text-bold-size);
+  color: var(--text-dark);
+  font-family: var(--smaller-text-bold);
+}
 .succor-b8 {
   position: relative;
   letter-spacing: -0.02em;

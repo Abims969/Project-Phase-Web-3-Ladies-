@@ -806,3 +806,166 @@ body {
   color: var(--blue-light);
   font-family: var(--smaller-text-bold);
 }
+
+/* Extra small devices (phones, 400px and down)
+@media only screen and (max-width: 400px) {
+  /* .join-us-and-help-provide-the-s {background: red;} */
+/* }
+
+body {
+  margin: 0;
+  line-height: normal;
+  width: 100%;
+}
+
+Nav bar */
+/* .about-us-div,
+.home-b,
+.succor-b {
+  position: relative;
+  display: inline-block;
+} */
+/* .succor-b {
+  letter-spacing: -0.01em;
+} */
+/* .about-us-div,
+.home-b {
+  line-height: 70%;
+} */ 
+/* .home-b {
+  color: var(--main-primary);
+} */
+/* .about-us-div {
+  font-weight: 300;
+} */
+
+/* All donate now button */
+/* .donate-now-b {
+  position: relative;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  display: inline-block;
+} */
+/* Images by the right */
+/* .rectangle-icon,
+.rectangle-icon1 {
+  position: relative;
+  border-radius: var(--br-2xl);
+  width: 90px;
+  height: 150px;
+  flex-shrink: 0;
+  object-fit: cover;
+} */
+/* .rectangle-icon1 {
+  height: 100px;
+} */
+
+/* Our Program and what we do to help */
+/* .our-programs-b,
+.what-we-do-to-help {
+  position: relative;
+  display: inline-block;
+} */
+/* .what-we-do-to-help {
+  font-size: var(--title-h2-size);
+  letter-spacing: -0.01em;
+  font-family: var(--title-h3);
+  color: var(--text-dark);
+} */
+
+/* the faded boxes under our programs */
+/* .they-are-trained-by-experts-of {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--bold-size);
+  line-height: 90%;
+  font-weight: 300;
+  display: inline-block;
+}  */
+
+/* ---------- */
+
+/* Make a child smile */
+/* 
+.if-you-are-interested-in-contr {
+  position: relative;
+  font-size: var(--bold-size);
+  line-height: 90%;
+  font-weight: 300;
+  display: inline-block;
+  width: 240px;
+} */
+
+/* /*  Make a donation with money */
+/* .make-donations-div {
+  position: absolute;
+  top: 2035.06px;
+  left: 0;
+  width: 1440px;
+  height: 940px;
+} */
+
+/* The Orphanage homes */
+/* 
+.frame-div28,
+ .frame31-div, 
+ .frame30-div {
+  flex-direction: row;
+  align-items: center;
+  font-size: var(--title-h3-size);
+  color: var(--text-dark);
+} */
+
+/* .make-donations-2-div {
+  position: absolute;
+  top: 3801px;
+  left: 0;
+  width: 1440px;
+  height: 644px;
+} */
+
+/* Join Us */
+/* .our-programs-b,
+.what-we-do-to-help {
+  position: relative;
+  display: inline-block;
+} */
+
+/* blue button
+.frame4-div {
+  padding: var(--padding-sm) var(--padding-lg);
+  box-sizing: border-box;
+} */
+
+/* image  beside join us */
+/* .rectangle5-icon {
+  position: relative;
+  border-radius: var(--br-lg);
+  width: 230px;
+  height: 222px;
+  flex-shrink: 0;
+  object-fit: cover;
+} */
+
+/* beforefooter */
+/* .together-we-can-make-the-world {
+  position: relative;
+  letter-spacing: -0.01em;
+  display: inline-block;
+  width: 450px;
+} */
+
+
+/* Footer */
+/* .frame-div42 {
+  position: absolute;
+  top: 4992px;
+  left: 0;
+  background-color: var(--text-slightly-dark);
+  width: 1440px;
+  height: 297px;
+  overflow: hidden;
+  font-size: var(--font-size-xs);
+  color: var(--braand-white);
+  font-family: var(--title-h3);
+} */
